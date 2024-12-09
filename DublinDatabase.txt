@@ -1,0 +1,8 @@
+D1 ## Name: Jessica Michael ## Course: Engineering >>T
+D2 ## Name: Ben Williams ## Course: Law >>T
+D3 ## Name: Katrin Wilson ## Course: Finance >>T
+D4 ## Name: Katrin Williams ## Course: Economics >>T
+C1 ## Name: Jack Williams ## Course: Law >>F
+C2 ## Name: Jessica Jones ## Course: Architecture >>F
+C3 ## Name: Tim Smith ## Course: Engineering >>F
+C4 ## Name: Jack Michael ## Course: Architecture >>F
